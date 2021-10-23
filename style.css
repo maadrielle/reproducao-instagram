@@ -120,12 +120,12 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('../instagram/apple.png');
+    background-image: url('https://www.instagram.com/static/images/appstore-install-badges/badge_ios_portuguese-brazilian-pt_br.png/68006a2bb372.png');
 
 }
 
 .app-download:nth-child(2) {
-    background-image: url('../instagram/google.png');
+    background-image: url('https://www.instagram.com/static/images/appstore-install-badges/badge_android_portuguese_brazilian-pt_BR.png/2f2a0c05b2f3.png');
     
 }
 
